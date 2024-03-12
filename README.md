@@ -1,11 +1,12 @@
-# portfolio
+# Portfolio
+
+## About Me
 
 ## Example of work project
 
-### A new feature is approved and all of the requirement is written on the document
-
-
-
-### Create Test case
-
-### Bug report
+## Tools
+- Visual Studio Code
+- Xmind
+- Trello, JIRA
+- Postman
+- GitHub
