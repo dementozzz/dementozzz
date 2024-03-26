@@ -5,8 +5,8 @@ My name is Hafidh Dharmawan, Throughout my career, I have mainly worked as Andro
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
-- [Automation testing - My first attempt to run](https://github.com/dementozzz/Selenium-TestNG-first)
-- [Automation testing - With my own scenario](https://github.com/dementozzz/Selenium-TestNG-Xpath)
+- [Automation testing (Part 1) - My first attempt to run](https://github.com/dementozzz/Selenium-TestNG-first)
+- [Automation testing (Part 1) - With my own scenario](https://github.com/dementozzz/Selenium-TestNG-Xpath)
 
 ## Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - To work & maintain the code for automation testing
