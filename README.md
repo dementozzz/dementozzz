@@ -5,8 +5,11 @@ My name is Hafidh Dharmawan, Throughout my career, I have mainly worked as Andro
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
+- [Automation testing - My first attempt to run](https://github.com/dementozzz/Selenium-TestNG-first)
+- [Automation testing - With my own scenario](https://github.com/dementozzz/Selenium-TestNG-Xpath)
 
 ## Tools
+- [Visual Studio Code](https://code.visualstudio.com/) - To work & maintain the code for automation testing
 - [Xmind](https://xmind.app/) - Mind mapping softwares
 - [Trello](https://trello.com/), [Jira](https://www.atlassian.com/software/jira) - Issue tracking and project management tool for developers
 - [Postman](https://www.postman.com/) - Testing tool for REST API
