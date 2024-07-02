@@ -5,7 +5,7 @@ I have 2+ years experience as mobile app developer and 1 year of Software tester
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
-- [Automation Testing - Simple checkout item](https://github.com/dementozzz/Cypress_basic)
+- [Automation Testing - Simple checkout item](https://github.com/dementozzz/Cypress_simple_checkout_item)
 
 ## Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - To work & maintain the code for automation testing
