@@ -1,12 +1,11 @@
 # Portfolio
 
 ## About Me
-My name is Hafidh Dharmawan, Throughout my career, I have mainly worked as Android developer for 3 years and then i switched my career as a Software Tester for 1 year. The reason is i enjoy understanding the system & flow of the apps. And hence the decision to undertake my journey as a Software Tester, I would like to share my testing knowledge that i have gathered when i was working as a Software Tester in this portfolio.
+I have 2+ years experience as mobile app developer and 1 year of Software tester, Skilled in Java, API testing using postman, Automation testing with cypress. Strong engineering professional with a Bachelor's degree focused on Business Information System.
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
-- [Automation testing (Part 1) - My first attempt to run](https://github.com/dementozzz/Selenium-TestNG-first) Using Selenium & TestNG
-- [Automation testing (Part 1) - With my own scenario](https://github.com/dementozzz/Selenium-TestNG-Xpath) Using Selenium & TestNG
+- [Automation Testing - Simple checkout item](https://github.com/dementozzz/Cypress_basic)
 
 ## Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - To work & maintain the code for automation testing
