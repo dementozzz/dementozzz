@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
-I have 2+ years experience as mobile app developer and currently im focusing on become a Software Quality Assurance along with 1 year experience with it. I have a strong background in test planning, execution, and defect tracking, ensuring the delivery of high-quality products at every stage of development.
+I have 2+ years experience as mobile app developer and currently im focusing on become a Software Quality Assurance along with 1 year experience with it. I have a strong background in test planning, execution, and defect tracking, ensuring the delivery of high-quality products at every stage of development. As a detail-oriented person, I am committed to continuous learning and skill improvement.
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
