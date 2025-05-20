@@ -5,7 +5,7 @@ I have 2+ years experience as mobile app developer and currently im focusing on 
 ## What I Do?
 
 - **Manual Testing:** I create and execute comprehensive test cases for web and mobile applications to ensure they meet user expectations and business requirements.
-- **Automation Testing:** I develop and maintain automated test scripts using [Cypress](https://www.cypress.io/) to improve testing efficiency.
+- **Automation Testing:** I develop and maintain automated test scripts using [Cypress](https://www.cypress.io/), [Playwright](https://playwright.dev/) to improve testing efficiency.
 - **API Testing:** Experienced in using [Postman](https://www.postman.com/) to conduct API testing, validating the seamless communication between different software components.
 - **Documentation:** Using [Confluence](https://www.atlassian.com/software/confluence) to create and manage documentation for better team collaboration.
 - **Project Management:** Organizing tasks and tracking progress using [Trello](https://trello.com/) to ensure timely delivery of QA cycles.
