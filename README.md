@@ -18,6 +18,6 @@ I have 2+ years experience as mobile app developer and currently im focusing on 
 
 ## Example of work project
 - [Manual Testing - "Wishlist" feature](https://github.com/dementozzz/Wishlist_Feature_Manual_Testing)
-- [Automation Testing - Simple checkout item](https://github.com/dementozzz/Cypress_simple_checkout_item)
+- [Automation Testing - E2E Testing Playwright](https://github.com/dementozzz/e2e-playwright-test)
 - [Automation Testing - Appointment website](https://github.com/dementozzz/Cypress_appointment_website)
 
